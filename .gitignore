@@ -1,0 +1,4 @@
+preprocessing/Lib/*
+preprocessing/src/app.log
+preprocessing/pyvenv.cfg
+.vscode
