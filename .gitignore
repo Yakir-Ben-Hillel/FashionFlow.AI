@@ -2,3 +2,6 @@ preprocessing/Lib/*
 preprocessing/src/app.log
 preprocessing/pyvenv.cfg
 .vscode
+FashionFlow.API/FashionFlow.API/bin
+FashionFlow.API/FashionFlow.API/obj
+FashionFlow.API/.vs
